@@ -1,30 +1,21 @@
 # Frontend Assignment Flipr
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Live Demo](#live-demo)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
-
----
-
 ## Project Overview
 
-This project is a responsive, multi-page website created as part of an assignment. It includes key pages such as Home, Blog, Blog Post, About Us, Category, Author, Contact, and Privacy Policy. The design emphasizes modular, reusable components and a clean UI that adapts seamlessly across devices. Enhanced hover effects, a cohesive color palette, and consistent typography ensure a polished user experience. Built with React, the project uses Tailwind CSS for styling and React Router for client-side navigation.
+The aim of this project is to create a seamless, responsive web design that adapts flawlessly across desktops, laptops, and mobile devices. The code adheres to best practices in readability, modularity, and scalability, ensuring long-term maintainability.
 
 ## Features
 
-- **Modular Components**: Reusable components designed for scalability.
-- **Clean UI**: Adheres to the provided color palette and font specifications.
-- **Hover Effects**: Enhanced hover effects to improve user experience.
-- **Responsive Design**: Adapts to mobile, tablet, and desktop.
+- **Responsive Design** : Ensures optimal viewing and functionality across all devices.
+- **Hover Effects**: Enhanced interactivity with consistent hover effects on buttons, cards, and other elements.
+- **Mobile-Friendly Layout**: Card-based design for improved readability and usability on smaller screens.
+- **Animations**: Subtle animations to enrich the user experience without compromising usability.
+- **Modular Code Structure**: Reusable components for better scalability and maintainability.
+- **Style Consistency**: Adherence to a unified design language, including a predefined color palette and font family.
 
 ## Live Demo
 
-Check out the live demo of the project here: [Deployed Project Link](https://frontend-assignment-flipr.netlify.app/)
+[Deployed Project Link](https://flipr-assign.netlify.app/)
 
 ## Technologies Used
 
@@ -47,7 +38,7 @@ Make sure you have the following installed on your local development environment
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/himanshu-paliwal-277/Frontend-Assignment-Flipr.git
+   git clone https://github.com/naman8033/Frontend-Assignment-Flipr.git
 
    ```
 
